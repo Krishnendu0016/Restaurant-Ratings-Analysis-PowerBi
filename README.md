@@ -62,7 +62,7 @@ Our data set consists of the following observations which include:
 - **Cuisine** -	Types of food the restaurant serves		
 
 ## ER Diagram
-![Restaurant-ratings drawio](https://github.com/)
+![Restaurant-ratings drawio](https://github.com/Krishnendu0016/Restaurant-Ratings-Analysis-PowerBi/blob/main/er_diagram.png?raw=true)
 
 ## Data Cleaning
 ### Steps to import data as a folder
@@ -193,9 +193,8 @@ Food_Rating_Category = SWITCH(
     The top five restaurants with high customer satisfaction ratings are Tortas Locas Hipocampo, where most consumers are highly satisfied, and Puesto de Tacos, which has received 30 highly satisfied consumer ratings. Cafeteria y Restaurante El Pacífico follows closely with 24 consumers rating it as highly satisfactory, while La Cantina Restaurante boasts 28 highly satisfied ratings. Rounding out the list, Restaurant la Chalita has garnered 20 high satisfaction ratings from its customers.
   
 ## Dashboard
-![Restaurant Ratings Analysis_page-0001](https://github.com/karlyndiary/)
-![Restaurant Ratings Analysis_page-0002](https://github.com/karlyndiary/)
-![Restaurant Ratings Analysis_page-0003](https://github.com/karlyndiary/)
-![Restaurant Ratings Analysis_page-0004](https://github.com/karlyndiary/)
-![Restaurant Ratings Analysis_page-0005](https://github.com/karlyndiary/)
-
+![Restaurant Ratings Analysis_page-0001](https://github.com/Krishnendu0016/Restaurant-Ratings-Analysis-PowerBi/blob/main/dashboard_home.jpg?raw=true)
+![Restaurant Ratings Analysis_page-0002](https://github.com/Krishnendu0016/Restaurant-Ratings-Analysis-PowerBi/blob/main/dashboard_dining.jpg?raw=true)
+![Restaurant Ratings Analysis_page-0003](https://github.com/Krishnendu0016/Restaurant-Ratings-Analysis-PowerBi/blob/main/dashboard_hos.jpg?raw=true)
+![Restaurant Ratings Analysis_page-0004](https://github.com/Krishnendu0016/Restaurant-Ratings-Analysis-PowerBi/blob/main/dashboard_behavior.jpg?raw=true)
+![Restaurant Ratings Analysis_page-0005](https://github.com/Krishnendu0016/Restaurant-Ratings-Analysis-PowerBi/blob/main/dashboard_review.jpg?raw=true)
